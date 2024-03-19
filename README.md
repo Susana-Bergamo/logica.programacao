@@ -1,4 +1,4 @@
-# Projeto de Lógica de Programação 💡👩‍💻 <img align="right" width="150" height="150" src="https://github.com/Susana-Bergamo/logica.programacao/blob/main/posts%20instagram%20pessoal%20(4).jpg">
+# Projeto de Lógica de Programação 💡👩‍💻 <img align="right" width="200" height="200" src="https://github.com/Susana-Bergamo/logica.programacao/blob/main/posts%20instagram%20pessoal%20(4).jpg">
 
 
 Este projeto fornece uma explicação detalhada do código Java presente no projeto "Contar Letra A", que demosntra como contar a quantidade de letras "a" em uma frase. 
