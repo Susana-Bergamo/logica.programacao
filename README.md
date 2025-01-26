@@ -37,4 +37,4 @@ A frase utilizada no código como exemplo é: ***"Eu sou a pessoa mais incrível
 ## ✅Considerações Finais:
 
 Este código é um exemplo simples que demonstra como contar a quantidade de letras "a" em uma frase. Através da compreensão deste código, você pode adaptá-lo para realizar outras tarefas de contagem e análise de strings em Java.
-O objetivo de criação deste projeto veio através de um desafio da [E2E Coders](https://ead.e2etreinamentos.com.br/), no qual faço parte. 
+
